@@ -2,7 +2,7 @@
 
 Experimental systems, stewardship frameworks, ethical AI concepts, conceptual infrastructure, and exploratory design projects.
 
-Misfit Genius is an umbrella initiative exploring systems, infrastructure, stewardship, ethical AI, exploratory design, and long-horizon conceptual frameworks.
+Misfit Genius Inc. is an umbrella initiative exploring systems, infrastructure, stewardship, ethical AI, exploratory design, and long-horizon conceptual frameworks.
 
 The work spans conceptual infrastructure, environmental systems, emerging technologies, creative research, and human-centered thinking.
 
