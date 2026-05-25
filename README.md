@@ -1,3 +1,5 @@
+<img width="2778" height="1152" alt="Misfit Genius Banner Website Header" src="https://github.com/user-attachments/assets/93655568-8176-4537-88d4-2469bb56002b" />
+
 # misfit-genius
 
 Experimental systems, stewardship frameworks, ethical AI concepts, conceptual infrastructure, and exploratory design projects.
